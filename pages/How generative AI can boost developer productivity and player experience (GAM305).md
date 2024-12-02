@@ -19,6 +19,7 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 				- Built in support for RAG
 					- LLMs hulicinate, [[RAG]] provide context using your knowledge and pass that to the LLM - making it more accurate and fine tuned
 	- Whiteboard and demos
+		- [[Prompt Engineering]] - Its important.. Think of the copiolt as an intern - give it context
 		-
 	- Q&A
 -
