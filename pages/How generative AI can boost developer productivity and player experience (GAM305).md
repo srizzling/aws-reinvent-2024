@@ -20,6 +20,9 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 			- [[AWS Bedrock]]
 				- Built in support for RAG
 					- LLMs hulicinate, [[RAG]] provide context using your knowledge (external sources) and pass that to the LLM - making it more accurate and fine tuned and generates more tailed resource. Otherwise, you will need to re-define your model - and train it.
+					- RAG system components:
+						- Embeddings:
+							- You're external sources (a )
 	- Whiteboard and demos
 		- [[Prompt Engineering]] - Its important.. Think of the copiolt as an intern - give it context
 		-
