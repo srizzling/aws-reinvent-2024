@@ -15,11 +15,11 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 		- AI services used
 			- [[Amazon Q Developer]]
 				- Think [[Copiolt]] - but Amazons version.
-				-
 			- [[AWS Bedrock]]
 				- Built in support for RAG
 					- LLMs hulicinate, [[RAG]] provide context using your knowledge and pass that to the LLM - making it more accurate and fine tuned
 	- Whiteboard and demos
+		-
 	- Q&A
 -
 	-
