@@ -14,7 +14,8 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 	- Service overview
 		- AI services used
 			- [[AWS Bedrock]]
-			-
+				- Built in support for RAG
+					- RAG i
 	- Whiteboard and demos
 	- Q&A
 -
