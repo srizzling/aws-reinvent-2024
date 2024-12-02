@@ -23,6 +23,8 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 					- RAG system components:
 						- Embeddings:
 							- You're external sources - does a semantic search - stores into a vector database
+						- [[Chunking]]
+						- You can integrate automation to sync or hydrate your knowledge bases.
 	- Whiteboard and demos
 		- [[Prompt Engineering]] - Its important.. Think of the copiolt as an intern - give it context
 		-
