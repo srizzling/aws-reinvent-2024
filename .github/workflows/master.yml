@@ -21,8 +21,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Logseq Publish 🚩
-        uses: pengx17/logseq-publish@main
+      - uses: logseq/publish-spa@v0.3.0
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
