@@ -5,4 +5,5 @@ speakers:: Tim Bruce, Saptarshi Banerjee
   topics:: [[Generative AI]], [[Developer Productivity]], [[Player Experience]], [[Game Development]]
   technologies:: [[AWS Bedrock]], [[Amazon SageMaker]], [[Unity Integration]], [[AI Models]]
 
--
+- Why I decided go?
+	- I am interested in different applications of GenAI - and this seems to be tied to
