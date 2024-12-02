@@ -7,5 +7,10 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 
 - Why I decided go?
 	- am interested in different applications of GenAI - and this seems to be tied to using it in the game industry
+- Agenda
+	- Game overview
+	- Service overviw
+	- Whiteboard and demos
+	- Q&A
 -
 	-
