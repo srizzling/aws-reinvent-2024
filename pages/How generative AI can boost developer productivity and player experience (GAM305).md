@@ -15,7 +15,7 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 		- AI services used
 			- [[AWS Bedrock]]
 				- Built in support for RAG
-					- RAG i
+					- LLMs hulicinate, [[RAG]]s provide context using your knowledge and pass that to the LLM - making it more accurate and fine tuned
 	- Whiteboard and demos
 	- Q&A
 -
