@@ -1,0 +1,1 @@
+- Defintion: LLMs hulicinate, [[RAG]] provide context using your knowledge and pass that to the LLM - making it more accurate and fine tuned
