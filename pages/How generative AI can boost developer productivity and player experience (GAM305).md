@@ -9,6 +9,7 @@ speakers:: Tim Bruce, Saptarshi Banerjee
 	- am interested in different applications of GenAI - and this seems to be tied to using it in the game industry
 - Agenda
 	- Game overview
+		- Problem: Game studos wanna build faster and push solutions faster
 	- Service overviw
 	- Whiteboard and demos
 	- Q&A
